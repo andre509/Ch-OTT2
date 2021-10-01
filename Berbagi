@@ -1,5 +1,27 @@
 #EXTM3U
 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",1
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",2
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",3
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",4
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",5
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",6
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",7
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",9
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",10
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",11
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Ch ADU",ADU KERBAU
 https://freelive.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Ch ADU",ADU AYAM 
@@ -47,35 +69,6 @@ http://livecdn.fptplay.net/afcchampion/afc08_2000.stream/chunklist.m3u8
 http://livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://mobileapkworld.com/wp-content/uploads/2017/03/sports.livetv2.png" group-title="AFC CUP", AFC Cup 10
 http://livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7329/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 2
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7330/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 3
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7331/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 4
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7332/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 5
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7333/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 6
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7334/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 7
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7335/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 8
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7336/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 9
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7337/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 10
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7338/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 11
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7339/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 12
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7340/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 13
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7341/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 14
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7348/index.m3u8
 
 
 
@@ -995,22 +988,16 @@ https://amc-ifc-films-picks-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTxr60.jpg" group-title="MOVIES THAI" ,AXN
 https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIES THAI",KBS WORLD HD
-#EXTVLCOPT:program=1
 https://feed.play.mv/live/10005200/s73XpKBMaR/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIES THAI",TVN HD
-#EXTVLCOPT:program=1
 https://feed.play.mv/live/10005200/lyQmMBq377/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIES THAI",FASHION TV HD
-#EXTVLCOPT:program=1
 https://feed.play.mv/live/10005200/tK5q6sJXFy/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIES THAI",HGTV HD
-#EXTVLCOPT:program=1
 https://feed.play.mv/live/10005200/Wvl02Co4S1/1.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIES THAI",TIMES NOW
-#EXTVLCOPT:program=1
 https://feed.play.mv/live/1009/4z9ybhTVhq/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIES THAI",LIFE TIME
-#EXTVLCOPT:program=1
 https://feed.play.mv/live/10005200/q1QsHkGgzx/master.m3u8
 #EXTINF:-1 group-title="MOVIES THAI"tvg-logo="https://drive.google.com/uc?id=15gb1odA8nncSySlqda4mBe1_3EtAx1w2",FWMOV
 https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
@@ -1042,7 +1029,6 @@ https://smart-tv.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
 https://smart-tv.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="MOVIES THAI" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/03/frmovies-1-300x300-1024x1024.jpg",Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
-
 #EXTINF:-1 group-title="MOVIES THAI"tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",LOVENATURE 
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
@@ -1293,15 +1279,15 @@ http://sos.moukrasa.xyz/live/791001144/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CDHcye.png",TNT Sports 1
+#EXTINF:-1 group-title="SPORTS 2"  tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CDHcye.png",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CDHcye.png",TNT Sports 2
+#EXTINF:-1 group-title="SPORTS 2"  tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CDHcye.png",TNT Sports 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CDHcye.png",TNT Sports 3
+#EXTINF:-1 group-title="SPORTS 2"  tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CDHcye.png",TNT Sports 3
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CDHcye.png",TNT Sports 4
+#EXTINF:-1 group-title="SPORTS 2"  tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CDHcye.png",TNT Sports 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CDHcye.png",TNT Sports 5
+#EXTINF:-1 group-title="SPORTS 2"  tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CDHcye.png",TNT Sports 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/06/CKpcX9.jpg",Sport Klub 1
 http://stream.tvtap.live:8081/live/klub1.stream/playlist.m3u8
@@ -1309,11 +1295,11 @@ http://stream.tvtap.live:8081/live/klub1.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/klub2.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/06/CKp2Wt.jpg",Sport Klub 3
 http://stream.tvtap.live:8081/live/klub3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Ct2IIb.jpg",EURO S 1
+#EXTINF:-1 group-title="SPORTS 2"  tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Ct2IIb.jpg",EURO S 1
 http://89.17.204.38/ch193/index.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Ct2IIb.jpg",EURO S 1 FR 
+#EXTINF:-1 group-title="SPORTS 2"  tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Ct2IIb.jpg",EURO S 1 FR 
 http://217.23.4.81:86/Eurosport_HD/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/30/CJYVBl.jpg",EURO S 2 FR 
+#EXTINF:-1 group-title="SPORTS 2"  tvg-logo="https://sv1.picz.in.th/images/2021/09/30/CJYVBl.jpg",EURO S 2 FR 
 http://217.23.4.81:86/Eurosport_2_HD/index.m3u8?token=test
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Ct5yXf.jpg",Tennis Channel 
