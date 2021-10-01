@@ -1,25 +1,25 @@
 #EXTM3U
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",1
-
+https://freelive
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",2
-
+https://freelive
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",3
-
+https://freelive
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",4
-
+https://freelive
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",5
-
+https://freelive
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",6
-
+https://freelive
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",7
-
+https://freelive
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",8
-
+https://freelive
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",9
-
+https://freelive
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",10
-
+https://freelive
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",11
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Ch ADU",ADU KERBAU
@@ -374,10 +374,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb5
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Lokal Wak", iNews
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Aw6sLSE.png" group-title="Lokal Wak", O CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Aw6sLSE.png" group-title="Lokal Wak",CHANNEL
 https://peytv.fun/play/smtr@peytv.fun/08390362/aRnRhqhp/gerbil/206_gerbil/playlist.m3u8
 
-EXTINF:-1 tvg-ID="" tvg-name="Trans TV" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Lokal Wak",Trans TV
+#EXTINF:-1 tvg-ID="" tvg-name="Trans TV" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Lokal Wak",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="Trans 7" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Lokal Wak",Trans 7
@@ -907,13 +907,8 @@ https://mnet-seezn.pip.cjenm.com/mnet/_definst_/s5/playlist.m3u8?token=eyJhbGciO
 https://tvn-seezn.pip.cjenm.com/tvn/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE
 #EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/09/08/Ci0rev.jpg"group-title="MOVIE TES",tvN Movies
 http://210.210.155.35/session/0f6a73da-edd5-11eb-900b-c81f66f89318/dr9445/h/h21/01.m3u8
-#EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTlzuq.jpg"group-title="MOVIE TES",New K-Movies
-https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtkOL0.jpg"group-title="MOVIE TES",K+
 http://210.210.155.35/session/7079735e-3130-11eb-9468-c81f66f89318/uq2663/h/h08/01.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MY142:FOX Action Movies" tvg-logo="" group-title="MOVIE TES",Hits Movie
-http://my.odtv.uk:80/live/1159189903/4938860969/76.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE TES",HBO MULTI
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE TES",HBO FAM MULTI
