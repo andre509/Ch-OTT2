@@ -19,11 +19,11 @@ https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 7
 https://cloudserver.server-cdn-streaming.com/live-player/12/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 8
-https://google-me.cdn.booyah.live/hls/113134/85354950.
+https://google-me.cdn.booyah.live/hls/113138/83188269.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 9
-https://google-me.cdn.booyah.live/hls/113134/85354950
+https://dj8baylqw7a4h.cloudfront.net/out/v1/29e89f3d8dc54deab128cf6b9241f82f/index_2.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 10
-https://google-me.cdn.booyah.live/hls/113134/85354950
+https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
 
 
 
@@ -717,43 +717,52 @@ https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Kids OEX", ANIPLUS
 http://45.126.83.51/session/c0d1e304-00e2-11ec-a2d0-b36b8a6007c6/dr9445/h/h02/index.m3u8
 
+#EXTINF:-1 tvg-id="astroarena.my" tvg-name="ASTRO Arena HD" tvg-logo="http://tvmalaysia.cc:80/images/d1e698ea9e88d4c850feb60f8d954ce5.jpg" group-title="SPORT PENANG",ASTRO Arena HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6707
+#EXTINF:-1 tvg-id="astroarena.my" tvg-name="Arena ( B )" tvg-logo="http://tvmalaysia.cc:80/images/d1e698ea9e88d4c850feb60f8d954ce5.jpg" group-title="SPORT PENANG",Arena ( B )
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9010
+#EXTINF:-1 tvg-id="" tvg-name="EPL LIVE 1" tvg-logo="" group-title="SPORT PENANG",EPL LIVE 1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9022
+#EXTINF:-1 tvg-id="" tvg-name="EPL LIVE 2" tvg-logo="" group-title="SPORT PENANG",EPL LIVE 2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9023
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/75cc9241f13d21de8368834292db1592.png" group-title="SPORT PENANG",ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6708
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASSP 1" tvg-logo="" group-title="SPORT PENANG",ASSP 1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9024
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="ASTRO SUPERSPORT 2 HD" tvg-logo="http://tvmalaysia.cc:80/images/e3c388f0dceef7b0bf46c2525f8cc4f1.png" group-title="SPORT PENANG",ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6710
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="" group-title="SPORT PENANG",ASSP 2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9025
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/a4088df4e560d3b64125b924fd46236c.png" group-title="SPORT PENANG",ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6711
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 3 (LIVE EPL ONLY)" tvg-logo="" group-title="SPORT PENANG",ASSP 3 (LIVE EPL ONLY)
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9020
+#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="http://tvmalaysia.cc:80/images/883b8a176132d660fdce1d14f2bfaf7e.png" group-title="SPORT PENANG",ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6712
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="" group-title="SPORT PENANG",ASSP 4
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9026
+#EXTINF:-1 tvg-id="foxsports1.my" tvg-name="FOX Sports HD" tvg-logo="http://tvmalaysia.cc:80/images/d51737bd55904a2635fffc31fbcbddda.png" group-title="SPORT PENANG",FOX Sports HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6793
+#EXTINF:-1 tvg-id="foxsports2.my" tvg-name="FOX Sports 2 HD" tvg-logo="http://tvmalaysia.cc:80/images/18b0b3d407af464a53c378fab0f897cd.png" group-title="SPORT PENANG",FOX Sports 2 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6791
+#EXTINF:-1 tvg-id="foxsports3.my" tvg-name="FOX Sports 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/6295d50d665d4e35bd56f0cf6a01b3da.png" group-title="SPORT PENANG",FOX Sports 3 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6792
+#EXTINF:-1 tvg-id="astrocricket.my" tvg-name="ASTRO Cricket" tvg-logo="http://tvmalaysia.cc:80/images/ff177c5033f26448c4af4c910a14984c.png" group-title="SPORT PENANG",ASTRO Cricket
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6717
+#EXTINF:-1 tvg-id="beinsports.my" tvg-name="beIN Sports" tvg-logo="http://tvmalaysia.cc:80/images/6b747581bd9a32ce47686fd2f486d509.png" group-title="SPORT PENANG",beIN Sports
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6749
+#EXTINF:-1 tvg-id="beinsportsmax.my" tvg-name="beIN MAX" tvg-logo="http://tvmalaysia.cc:80/images/d339916b681e912fa219a6eae2127dbc.png" group-title="SPORT PENANG",beIN MAX
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6748
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2" tvg-logo="http://tvmalaysia.cc:80/images/25c358ffb322d20078dcd7507903bfe0.png" group-title="SPORT PENANG",beIN MAX 2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7195
+#EXTINF:-1 tvg-id="MY: WWE NETWORK HD" tvg-name="WWE Network" tvg-logo="http://tvmalaysia.cc:80/images/fe2f1947f90a1fca6f1d3c8e2f2e8054.jpg" group-title="SPORT PENANG",WWE Network
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6849
+#EXTINF:-1 tvg-id="MY: RUGBYPASS TV HD" tvg-name="Rugby Pass TV" tvg-logo="http://tvmalaysia.cc:80/images/98991a2582751895902809093633b033.png" group-title="SPORT PENANG",Rugby Pass TV
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6821
+#EXTINF:-1 tvg-id="MY: GOLF CHANNEL HD" tvg-name="Golf Channel HD" tvg-logo="http://tvmalaysia.cc:80/images/1eb1cee8b5e1c96e92721e3ca5ab59d5.jpg" group-title="SPORT PENANG",Golf Channel HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6796
 
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS PENANG",ASTRO Arena HD
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6707
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS PENANG",Arena ( B )
-http://iptv.tvmalaysia.cc:80/penang189/penang189/9010
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS PENANG",ASTRO SUPERSPORT HD
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6708
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS PENANG",ASTRO SUPERSPORT 2 HD
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6710
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS PENANG",ASTRO SUPERSPORT 3 HD
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6711
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS PENANG",ASSP 3 (LIVE EPL ONLY)
-http://iptv.tvmalaysia.cc:80/penang189/penang189/9020
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS PENANG",ASTRO SUPERSPORT 4 HD
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6712
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS PENANG",FOX Sports HD
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6793
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS PENANG",FOX Sports 2 HD
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6791
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS PENANG",FOX Sports 3 HD
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6792
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS PENANG",ASTRO Cricket
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6717
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS PENANG",beIN Sports
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6749
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS PENANG",beIN MAX
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6748
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS PENANG",beIN MAX 2
-http://iptv.tvmalaysia.cc:80/penang189/penang189/7195
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS PENANG",WWE Network
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6849
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS PENANG",Rugby Pass TV
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6821
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS PENANG",Golf Channel HD
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6796
 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Documentaries",Nat geo
