@@ -13,7 +13,7 @@ http://93.152.174.144:4000/play/ss3in/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 4
 https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 5
-https://smart-tv.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+https://d3enrjt1epikkg.cloudfront.net/out/v1/3d826ebd53ac4369bf1ce4a5327508ad/index_1.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 6
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 7
@@ -23,7 +23,8 @@ https://google-me.cdn.booyah.live/hls/113138/83188269.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 9
 https://dj8baylqw7a4h.cloudfront.net/out/v1/29e89f3d8dc54deab128cf6b9241f82f/index_2.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 10
-https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
+https://d3enrjt1epikkg.cloudfront.net/out/v1/3d826ebd53ac4369bf1ce4a5327508ad/index_1.m3u8
+
 
 
 
