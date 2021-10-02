@@ -1,19 +1,23 @@
 #EXTM3U
 
+Covid-19 Live Count 
+http://xcwsnl28.mrnova.online/live/60139_.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 1
-https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
+http://93.152.174.144:4000/play/ss1in/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 2
-https://google-me.cdn.booyah.live/hls/113137/83188269.m3u8
+http://93.152.174.144:4000/play/ss2in/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 3
-https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
+http://93.152.174.144:4000/play/ss3in/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 4
-https://google-me.cdn.booyah.live/hls/113134/85354950.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 5
-https://google-me.cdn.booyah.live/hls/113134/85354950
+https://smart-tv.livedoomovie.com/02_sport6_480p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 6
-https://google-me.cdn.booyah.live/hls/113134/85354950
+https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 7
-https://google-me.cdn.booyah.live/hls/113134/85354950.
+https://cloudserver.server-cdn-streaming.com/live-player/12/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 8
 https://google-me.cdn.booyah.live/hls/113134/85354950.
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 9
@@ -971,17 +975,27 @@ http://198.16.106.62:8278/streams/d/Boomerang/playlist.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES THAI"tvg-logo="https://sv1.picz.in.th/images/2021/09/17/CoaXPt.jpg",CineLife 
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="MOVIES THAI" True Chinese More 
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/03/C9yBCg.jpg"group-title="MOVIES THAI",H2 
+https://feed.play.mv/live/10005200/uzBWuYCU0z/master.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTwebR.jpg"group-title="MOVIES THAI",TRUE4U
+https://tnnthailand-msqo7x.cdn.byteark.com/live/pl_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/30/CJ0hr9.jpg"group-title="MOVIES THAI",FOX 
+http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/29/CvZIo8.jpg"group-title="MOVIES THAI",FILMBOX
+http://xcwsnl28.mrnova.online/live/60502_.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/26/CV2t0k.jpg"group-title="MOVIES THAI",MAX HD
+http://xcwsnl28.mrnova.online/live/60467_.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/10/01/CLeifN.jpg"group-title="MOVIES THAI",True Chinese More 
 https://smart-tv.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/09/03/C9me7P.jpg" group-title="MOVIES THAI" ,History True
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/03/C9me7P.jpg" group-title="MOVIES THAI" ,History True
 https://smart-tv.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/09/03/C9yBCg.jpg" group-title="MOVIES THAI" ,H2 True
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/03/C9yBCg.jpg" group-title="MOVIES THAI" ,H2 True
 https://smart-tv.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
-#EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/09/30/CJdxAg.jpg" group-title="MOVIES THAI" ,FXX 
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/30/CJdxAg.jpg" group-title="MOVIES THAI" ,FXX 
 http://31.220.41.88:8081/live/us-fxx.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/09/16/ClJTwP.jpg" group-title="MOVIES THAI" ,IFC Films Picks
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/16/ClJTwP.jpg" group-title="MOVIES THAI" ,IFC Films Picks
 https://amc-ifc-films-picks-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTxr60.jpg" group-title="MOVIES THAI" ,AXN
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTxr60.jpg" group-title="MOVIES THAI" ,AXN
 https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIES THAI",KBS WORLD HD
 https://feed.play.mv/live/10005200/s73XpKBMaR/master.m3u8
