@@ -1,6 +1,6 @@
 #EXTM3U
 
-Covid-19 Live Count 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="INFO COVID",Covid-19 Live Count 
 http://xcwsnl28.mrnova.online/live/60139_.m3u8
 
 
@@ -1190,24 +1190,21 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",SIX HD 
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",TSN 1
-http://31.220.41.88:8081/live/tsn1.stream/chunks.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",TSN 2
-http://31.220.41.88:8081/live/tsn2.stream/chunks.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",TSN 3
-http://31.220.41.88:8081/live/tsn3.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS WAK" tvg-logo="http://sporter.com.hr/images/tv-station-cro-arena-sport-1-314.png",ARENA SPORTS 1
+http://31.220.41.88:8081/live/arena1.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS WAK" tvg-logo="http://sporter.com.hr/images/tv-station-cro-arena-sport-2-315.png",ARENA SPORTS 2
+http://31.220.41.88:8081/live/arena2.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS WAK" tvg-logo="http://sporter.com.hr/images/tv-station-cro-arena-sport-3-316.png",ARENA SPORTS 3
+http://31.220.41.88:8081/live/arena3.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS WAK" tvg-logo="http://sporter.com.hr/images/tv-station-cro-arena-sport-4-317.png",ARENA SPORTS 4
+http://31.220.41.88:8081/live/arena4.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS WAK" tvg-logo="http://sporter.com.hr/images/tv-station-cro-arena-sport-5-318.png",ARENA SPORTS 5
+http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS WAK" tvg-logo="https://i.ibb.co/rcK5Pbj/Ksport1-BEARTV.png", K Sport 1
 #https://bf.moonmagic.cn/live/sd-1-3565130.m3u8
 http://93.157.62.180/KSport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS WAK" tvg-logo="https://i.ibb.co/rcK5Pbj/Ksport1-BEARTV.png", K Sport 2
 http://93.157.62.180/KSport2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="foxsportshd" group-title="SPORTS WAK" tvg-logo="https://i.ibb.co/R2jPrQ8/Fox-Sports-BEARTV.png", FOX SPORT HD
-https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="foxsports2hd" group-title="SPORTS WAK" tvg-logo="https://i.ibb.co/m6KmHcX/foxsport2-BEARTV.png", FOX SPORT 2 HD
-https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="foxsports3hd" group-title="SPORTS WAK" tvg-logo="https://i.ibb.co/DDvdY9W/foxsport3-BEARTV.png", FOX SPORT 3 HD
-https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
-
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",NBCSN
 http://31.220.41.87:8081/live/nbcsn.stream/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Eoro Sport 1
@@ -1235,16 +1232,6 @@ http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Bein Sports 7
 http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS WAK" tvg-logo="http://sporter.com.hr/images/tv-station-cro-arena-sport-1-314.png",ARENA SPORTS 1
-http://31.220.41.88:8081/live/arena1.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS WAK" tvg-logo="http://sporter.com.hr/images/tv-station-cro-arena-sport-2-315.png",ARENA SPORTS 2
-http://31.220.41.88:8081/live/arena2.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS WAK" tvg-logo="http://sporter.com.hr/images/tv-station-cro-arena-sport-3-316.png",ARENA SPORTS 3
-http://31.220.41.88:8081/live/arena3.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS WAK" tvg-logo="http://sporter.com.hr/images/tv-station-cro-arena-sport-4-317.png",ARENA SPORTS 4
-http://31.220.41.88:8081/live/arena4.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS WAK" tvg-logo="http://sporter.com.hr/images/tv-station-cro-arena-sport-5-318.png",ARENA SPORTS 5
-http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Bt sports 3
 http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
 
