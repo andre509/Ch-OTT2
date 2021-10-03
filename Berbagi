@@ -1,5 +1,12 @@
 #EXTM3U
 
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT",star sport 1
+http://93.152.174.144:4000/play/ss1in/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT",star sport 2
+http://93.152.174.144:4000/play/ss2in/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT",star sport 3
+http://93.152.174.144:4000/play/ss3in/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 Premium HDD" tvg-logo="" group-title="BEIN SPORTS",beIN Sports 1 Premium HDD
 http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/1
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 Premium HDD" tvg-logo="" group-title="BEIN SPORTS",beIN Sport 2 Premium HDD
@@ -61,13 +68,13 @@ http://xcwsnl28.mrnova.online/live/60139_.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 1
-http://93.152.174.144:4000/play/ss1in/index.m3u8
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563141
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 2
-http://93.152.174.144:4000/play/ss2in/index.m3u8
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563143
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 3
-http://93.152.174.144:4000/play/ss3in/index.m3u8
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563146
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 4
-http://4.yacineapptv.com.global.prod.fastly.net/live/6151278887/index.m3u8
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563148
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 5
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745744
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 6
@@ -79,7 +86,7 @@ https://google-me.cdn.booyah.live/hls/113138/83188269.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 9
 https://dj8baylqw7a4h.cloudfront.net/out/v1/29e89f3d8dc54deab128cf6b9241f82f/index_2.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 10
-https://d3enrjt1epikkg.cloudfront.net/out/v1/3d826ebd53ac4369bf1ce4a5327508ad/index_1.m3u8
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745741
 
 
 
