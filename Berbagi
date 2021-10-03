@@ -1,6 +1,37 @@
 #EXTM3U
 
-
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", Bein Sport 1
+https://smart-tv.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", Bein Sport 2
+https://smart-tv.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", PremierHD1
+https://smart-tv.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", PremierHD2
+https://smart-tv.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", PremierHD3
+https://smart-tv.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", PremierHD4
+https://smart-tv.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", PremierHD5
+https://smart-tv.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", True sporthd1
+https://smart-tv.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", True sporthd2
+https://smart-tv.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", True sporthd3
+https://smart-tv.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", True sport5
+https://smart-tv.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", True sport6
+https://smart-tv.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", True sport7
+https://smart-tv.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", Fox Sports 1
+https://smart-tv.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", Fox Sports 2
+https://smart-tv.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", Fox Sports 3
+https://smart-tv.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sports",BEINSPOT
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745747
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sports",BEINMAX
@@ -17,58 +48,6 @@ http://93.152.174.144:4000/play/ss1in/index.m3u8
 http://93.152.174.144:4000/play/ss2in/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT",star sport 3
 http://93.152.174.144:4000/play/ss3in/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 Premium HDD" tvg-logo="" group-title="BEIN SPORTS",beIN Sports 1 Premium HDD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/1
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 Premium HDD" tvg-logo="" group-title="BEIN SPORTS",beIN Sport 2 Premium HDD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/2
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 Premium HDD" tvg-logo="" group-title="BEIN SPORTS",beIN Sports 3 Premium HDD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/3
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HDD" tvg-logo="" group-title="BEIN SPORTS",beIN Sports 1 HDD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/4
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HDD" tvg-logo="" group-title="BEIN SPORTS",beIN Sports 2 HDD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/5
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HDD" tvg-logo="" group-title="BEIN SPORTS",beIN Sports 3 HDD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/6
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HDD" tvg-logo="" group-title="BEIN SPORTS",beIN Sports 4 HDD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/7
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HDD 5" tvg-logo="" group-title="BEIN SPORTS",beIN Sport HDD 5
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HDD 6" tvg-logo="" group-title="BEIN SPORTS",beIN Sport HDD 6
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/9
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HDD 7" tvg-logo="" group-title="BEIN SPORTS",beIN Sport HDD 7
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/10
-#EXTINF:-1 tvg-id="" tvg-name="beIN News" tvg-logo="" group-title="BEIN SPORTS",beIN News 1
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/11
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS GLOBAL" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS GLOBAL1
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/12
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FRA 1" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS FRA 1D
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/13
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FRA 2" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS FRA 2D
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/14
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FRA 3" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS FRA 3D
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/15
-#EXTINF:-1 tvg-id="" tvg-name="BEIN EXTRA 1" tvg-logo="" group-title="BEIN SPORTS",BEIN EXTRA 1DD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/16
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 Premium SD" tvg-logo="" group-title="BEIN SPORTS",beIN Sport 1 Premium SDD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/18
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 Premium SD" tvg-logo="" group-title="BEIN SPORTS",beIN Sport 2 Premium SDD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/19
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 Premium SD" tvg-logo="" group-title="BEIN SPORTS",beIN Sport 3 Premium SDD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/20
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 SD" tvg-logo="" group-title="BEIN SPORTS",beIN Sports 1 SDD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/21
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 SD" tvg-logo="" group-title="BEIN SPORTS",beIN Sports 2 SDD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/22
-#EXTINF:-1 tvg-id="" tvg-name="bein Sport 3 SD" tvg-logo="" group-title="BEIN SPORTS",bein Sport 3 SDD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/23
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport SD 4" tvg-logo="" group-title="BEIN SPORTS",beIN Sport SDD 4
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/24
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport SD 5" tvg-logo="" group-title="BEIN SPORTS",beIN Sport SDD 5
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/25
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports PR 1 Low" tvg-logo="" group-title="BEIN SPORTS",Bein Sports PR 1 LowD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/26
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports PR 2 Low" tvg-logo="" group-title="BEIN SPORTS",Bein Sports PR 2 LowD
-http://www.aloka-iptv.xyz:8080/app/www.aloka-app.tv/27
 
 
 
