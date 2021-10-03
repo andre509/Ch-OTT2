@@ -87,13 +87,13 @@ http://xcwsnl28.mrnova.online/live/60139_.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 1
-https://google-me.cdn.booyah.live/hls/113132/85565524.m3u8
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=bein1
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 2
-http://4.yacineapptv.com.global.prod.fastly.net/live/6151278887/index.m3u8
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=bein2
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 3
-http://4.yacineapptv.com.global.prod.fastly.net/live/6151278887/index.m3u8
+https://yamcode.com/raw/useesport1-m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 4
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-206
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=useesports2
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 5
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745744
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 6
@@ -105,8 +105,7 @@ https://google-me.cdn.booyah.live/hls/113132/83188269.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 9
 https://dj8baylqw7a4h.cloudfront.net/out/v1/29e89f3d8dc54deab128cf6b9241f82f/index_2.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 10
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745741
-
+http://2.yacineapptv.com.global.prod.fastly.net/live/616194987/index.m3u8
 
 
 
@@ -469,7 +468,8 @@ https://peytv.fun/play/smtr@peytv.fun/08390362/aRnRhqhp/gerbil/206_gerbil/playli
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="Trans 7" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Lokal Wak",Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="SCTV" tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="Lokal Wak",SCTV
 http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
@@ -768,11 +768,9 @@ http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Kids OEX",Disney
-http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
+http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Kids OEX",Disney jr
-http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-
-
+http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Kids OEX", Aniplus Indonesia
 http://210.210.155.35/session/e08c4f70-9550-11eb-8dbb-95a095347988/dr9445/h/h02/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Kids OEX", Biznet Kids
