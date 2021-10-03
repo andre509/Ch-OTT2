@@ -82,7 +82,7 @@ https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?chann
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 2
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=bein2
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 3
-https://yamcode.com/raw/useesport1-m3u8
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=useesports1
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 4
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=useesports2
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 5
@@ -92,7 +92,7 @@ https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6686
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 7
 https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6786
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 8
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+https://df21rphi6oj97.cloudfront.net:443/out/v1/7016aa435aa843908072510524c65999/index_2.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 9
 https://dj8baylqw7a4h.cloudfront.net/out/v1/29e89f3d8dc54deab128cf6b9241f82f/index_2.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 10
