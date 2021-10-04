@@ -1,5 +1,36 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT_TV_1_HD" tvg-logo="" group-title="PORTUGAL",PT:SPORT_TV_1_HD
+http://www.zizoiptv.com:8000/live/arbcamd/122197/7436.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT_TV_2_HD" tvg-logo="" group-title="PORTUGAL",PT:SPORT_TV_2_HD
+http://www.zizoiptv.com:8000/live/arbcamd/122197/7435.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT_TV_3_HD" tvg-logo="" group-title="PORTUGAL",PT:SPORT_TV_3_HD
+http://www.zizoiptv.com:8000/live/arbcamd/122197/7433.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT_TV_5_HD" tvg-logo="" group-title="PORTUGAL",PT:SPORT_TV_5_HD
+http://www.zizoiptv.com:8000/live/arbcamd/122197/7431.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEIN_SP1HD" tvg-logo="" group-title="bein-exchange ",AR:BEIN_SP1HD
+http://www.zizoiptv.com:8000/live/arbcamd/122197/1413.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEIN_SP2HD" tvg-logo="" group-title="bein-exchange ",AR:BEIN_SP2HD
+http://www.zizoiptv.com:8000/live/arbcamd/122197/1414.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEIN_SP3HD" tvg-logo="" group-title="bein-exchange ",AR:BEIN_SP3HD
+http://www.zizoiptv.com:8000/live/arbcamd/122197/1415.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEIN_SP4HD" tvg-logo="" group-title="bein-exchange ",AR:BEIN_SP4HD
+http://www.zizoiptv.com:8000/live/arbcamd/122197/1416.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEIN_SP5HD" tvg-logo="" group-title="bein-exchange ",AR:BEIN_SP5HD
+http://www.zizoiptv.com:8000/live/arbcamd/122197/1417.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEIN_SP6HD" tvg-logo="" group-title="bein-exchange ",AR:BEIN_SP6HD
+http://www.zizoiptv.com:8000/live/arbcamd/122197/1418.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEIN_SP7HD" tvg-logo="" group-title="bein-exchange ",AR:BEIN_SP7HD
+http://www.zizoiptv.com:8000/live/arbcamd/122197/1419.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEIN_SP8HD" tvg-logo="" group-title="bein-exchange ",AR:BEIN_SP8HD
+http://www.zizoiptv.com:8000/live/arbcamd/122197/1420.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEIN_SP9HD" tvg-logo="" group-title="bein-exchange ",AR:BEIN_SP9HD
+http://www.zizoiptv.com:8000/live/arbcamd/122197/1421.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEIN_SP10HD" tvg-logo="" group-title="bein-exchange ",AR:BEIN_SP10HD
+http://www.zizoiptv.com:8000/live/arbcamd/122197/1422.ts
+
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", Bein Sport 1
 https://smart-tv.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", Bein Sport 2
