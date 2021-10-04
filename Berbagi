@@ -325,71 +325,71 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" group-title="CH USEETV", Rodja TV 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6c8349cc7260ae62e3b1396831a8398fdfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logodunialainsmall.png?v=2.0.0.13" group-title="CH USEETV", Dunia Lain MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=dunialain
 
 
 #EXTINF:-1 tvg-id="blueant" tvg-name="blueant" tvg-logo="https://www.useetv.com/assets/images/channel/logoblueantsmall.png" group-title="CH USEETV", Blue ant entertainmet MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueant&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=blueant
 
 #EXTINF:-1 tvg-id="blueantextreme" tvg-name="blueantextreme" tvg-logo="https://www.useetv.com/assets/images/channel/logoblueantextsmall.png" group-title="CH USEETV", Blue ant extreme MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueantextreme&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=blueantextreme
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logoaxnsmall.png?v=2.0.0.13" group-title="CH USEETV", AXN MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=axn
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logowakuwakusmall.png?v=2.0.0.13" group-title="CH USEETV", Waku Waku Japan MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=wakuwaku&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=wakuwaku
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logokplussmall1.png?v=2.0.0.13" group-title="CH USEETV", K+ MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=kplus&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=kplus
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logosgemsmall.png?v=2.0.0.13" group-title="CH USEETV", Sony GEM TV MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=sgem&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=sgem
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logosonesmall.png?v=2.0.0.13" group-title="CH USEETV", Sony One MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=sone&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=sone
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logoaniplussmall1.png?v=2.0.0.13" group-title="CH USEETV", Aniplus MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=aniplus&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=aniplus
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logoanimaxsmall.png" group-title="CH USEETV", Animax MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=animax&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=animax
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logokbsworldsmall.png" group-title="CH USEETV", KBS World MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=kbsworld&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=kbsworld
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logolifetimesmall.png" group-title="CH USEETV", Lifetime MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=lifetime&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=lifetime
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logoctiasiasmall.png" group-title="CH USEETV", Ctiasia MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=ctiasia&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=ctiasia
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logobioskopindonesiasmall1.png?v=2.0.0.13" group-title="CH USEETV", Bioskop Indonesia MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=bioskopindonesia
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logozbioskopsmall1.png?v=2.0.0.13" group-title="CH USEETV", ZBioskop MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=zbioskop&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=zbioskop
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logothrillsmall.png" group-title="CH USEETV", Thrill MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=thrill&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=thrill
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logocelestialmoviesmall.png" group-title="CH USEETV", Celestial Movie MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=celestialmovie&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=celestialmovie
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logocinemaworldsmall.png" group-title="CH USEETV", Cinema World MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=cinemaworld
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logofliksmall1.png?v=2.0.0.13" group-title="CH USEETV", Flik MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=flik
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogalaxysmall1.png?v=2.0.0.13" group-title="CH USEETV", Galaxy MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxy&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=galaxy
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogalaxypremiumsmall.png" group-title="CH USEETV", Galaxy Premium MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=galaxypremium
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logoimcsmall.png?v=2.0.0.13" group-title="CH USEETV", IMC MKC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=imc
 
 
 
