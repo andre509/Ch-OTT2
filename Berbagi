@@ -1,5 +1,33 @@
 #EXTM3U
 
+#EXTINF: -1 tvg-id="1234" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="Sneh Jio Sports", Jio Football HD Eng
+http://jo123.biz/jweb/m3u8.php?c=Jio_Football&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="1234" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="Sneh Jio Sports", Jio Football 1 HD
+http://jo123.biz/jweb/m3u8.php?c=Jio_Football_1&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="1167" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png" group-title="Sneh Jio Sports", Jio Football 2 HD
+http://jo123.biz/jweb/m3u8.php?c=Jio_Football_2&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="1168" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png" group-title="Sneh Jio Sports", Jio Football 3 HD
+http://jo123.biz/jweb/m3u8.php?c=Jio_Football_3&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sneh Jio Sports", Sony Six HD1
+http://jo123.biz/jweb/m3u8.php?c=Six_HD&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="Sneh Jio Sports", Ten 4 HD T
+http://jo123.biz/jweb/m3u8.php?c=Ten_4_HD_Tamil&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="Sneh Jio Sports", Ten 4 HD Te
+http://jo123.biz/jweb/m3u8.php?c=Ten_4_HD_Telugu&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" group-title="Sneh Jio Sports", Ten 4 HD Tel
+http://jo123.biz/jweb/m3u8.php?c=Ten_4_Telugu&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sneh Jio Sports", Ten 1 HD1
+http://jo123.biz/jweb/m3u8.php?c=Ten_HD&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="891" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sneh Jio Sports", Ten 2 HD2
+http://jo123.biz/jweb/m3u8.php?c=Ten2_HD&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="892" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sneh Jio Sports", Ten 3 HD3
+http://jo123.biz/jweb/m3u8.php?c=Ten3_HD&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="875" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Sneh Jio Sports", Eurosport HD1
+http://jo123.biz/jweb/m3u8.php?c=Dsports_HD&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="1425" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png" group-title="Sneh Jio Sports", 1Sports
+http://jo123.biz/jweb/m3u8.php?c=1Sports&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="1529" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="Sneh Jio Sports", MI TV
+http://jo123.biz/jweb/m3u8.php?c=MI_TV&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PT:SPORT_TV_1_HD" tvg-logo="" group-title="PORTUGAL",PT:SPORT_TV_1_HD
 http://www.zizoiptv.com:8000/live/arbcamd/122197/7436.ts
@@ -988,7 +1016,7 @@ http://rr1.dens.tv/h/h16/index.m3u8
 http://rr1.dens.tv/h/h15/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE TES",SONY PIX Token
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+http://jo123.biz/jweb/m3u8.php?c=Sony_Pix_HD&q=800&e=junk.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE TES",STAR MOVIES HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE TES",STAR WORLD
