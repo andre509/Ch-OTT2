@@ -1,6 +1,45 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-id="MusicChoiceHitList.us" tvg-name="Music Choice | Hit List Music Videos" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Hit List Music Videos
+http://gooserace.xyz:80/roman/roman123/2148437.ts
+#EXTINF:-1 tvg-id="MusicChoice-Indie.us" tvg-name="Music Choice | Indie Audio Channel" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Indie Audio Channel
+http://gooserace.xyz:80/roman/roman123/2148439.ts
+#EXTINF:-1 tvg-id="MusicChoice-Indie.us" tvg-name="Music Choice | Indie Music Videos" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Indie Music Videos
+http://gooserace.xyz:80/roman/roman123/2148438.ts
+#EXTINF:-1 tvg-id="MusicChoice-KidzOnly.us" tvg-name="Music Choice | Kidz Only Music Videos" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Kidz Only Music Videos
+http://gooserace.xyz:80/roman/roman123/2148440.ts
+#EXTINF:-1 tvg-id="MusicChoice-Metal.us" tvg-name="Music Choice | Metal Music Videos" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Metal Music Videos
+http://gooserace.xyz:80/roman/roman123/2148441.ts
+#EXTINF:-1 tvg-id="MusicChoice-Mexicana.us" tvg-name="Music Choice | Mexicana Music Videos" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Mexicana Music Videos
+http://gooserace.xyz:80/roman/roman123/2148442.ts
+#EXTINF:-1 tvg-id="MusicChoice-MusicaUrbana.us" tvg-name="Music Choice | Musica Urbana Music Videos" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Musica Urbana Music Videos
+http://gooserace.xyz:80/roman/roman123/2148443.ts
+#EXTINF:-1 tvg-id="MusicChoice-PopAndCountry.us" tvg-name="Music Choice | Pop & Country Music Videos" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Pop & Country Music Videos
+http://gooserace.xyz:80/roman/roman123/2148444.ts
+#EXTINF:-1 tvg-id="MusicChoice-PopHits.us" tvg-name="Music Choice | Pop Hits Music Videos" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Pop Hits Music Videos
+http://gooserace.xyz:80/roman/roman123/2148445.ts
+#EXTINF:-1 tvg-id="MusicChoice-PopLatino.us" tvg-name="Music Choice | Pop Latino Music Videos" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Pop Latino Music Videos
+http://gooserace.xyz:80/roman/roman123/2148446.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice | R&B Soul Music Videos" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | R&B Soul Music Videos
+http://gooserace.xyz:80/roman/roman123/2148447.ts
+#EXTINF:-1 tvg-id="MusicChoice-Rap.us" tvg-name="Music Choice | Rap 2K Music Videos" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Rap 2K Music Videos
+http://gooserace.xyz:80/roman/roman123/2148449.ts
+#EXTINF:-1 tvg-id="MusicChoice-Rap.us" tvg-name="Music Choice | Rap Music Videos" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Rap Music Videos
+http://gooserace.xyz:80/roman/roman123/2148448.ts
+#EXTINF:-1 tvg-id="MusicChoice-Rock.us" tvg-name="Music Choice | Rock Music Videos" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Rock Music Videos
+http://gooserace.xyz:80/roman/roman123/2148450.ts
+#EXTINF:-1 tvg-id="MusicChoice-TeenBeats.us" tvg-name="Music Choice | Teen Beats Music Videos" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Teen Beats Music Videos
+http://gooserace.xyz:80/roman/roman123/2148451.ts
+#EXTINF:-1 tvg-id="MusicChoice-ThrowbackJams.us" tvg-name="Music Choice | Throwback Jamz Music Videos" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Throwback Jamz Music Videos
+http://gooserace.xyz:80/roman/roman123/2148452.ts
+#EXTINF:-1 tvg-id="MusicChoice-TodaysCountry.us" tvg-name="Music Choice | Today's Country Music Videos" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Today's Country Music Videos
+http://gooserace.xyz:80/roman/roman123/2148453.ts
+#EXTINF:-1 tvg-id="MusicChoice-ToddlerTunes.us" tvg-name="Music Choice | Toddler Tunes Music Videos" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Toddler Tunes Music Videos
+http://gooserace.xyz:80/roman/roman123/2148454.ts
+#EXTINF:-1 tvg-id="MusicChoice-Tropicales.us" tvg-name="Music Choice | Tropicales Music Videos" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Tropicales Music Videos
+http://gooserace.xyz:80/roman/roman123/2148455.ts
+#EXTINF:-1 tvg-id="MusicChoice-Y2K.us" tvg-name="Music Choice | Y2K Music Videos" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Y2K Music Videos
+http://gooserace.xyz:80/roman/roman123/2148456.ts
 #EXTINF:-1 tvg-name="Bein Premium 1 HD" tvg-logo="",Bein Prem 1 HD
 http://viewplayer.ip1v.com:25461/maan/test/22
 #EXTINF:-1 tvg-name="bein sports pr 2 HD" tvg-logo="",bein spor pr 2 HD
