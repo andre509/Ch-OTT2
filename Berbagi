@@ -1,35 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-name="BEIN FOX MOVIES 4K" tvg-logo="http://wagmaupload.com/images/live150_559.png" group-title="BEIN MEDIA",BEIN FOX MOVIES 4K
-http://wagmaott.com:8080/mag00:1A:79:A7:3D:AD/vG0fMC8O4t/8809
-#EXTINF:0 tvg-name="BEIN FOX MOVIES HD" tvg-logo="http://wagmaupload.com/images/live150_559.png" group-title="BEIN MEDIA",BEIN FOX MOVIES HD
-http://wagmaott.com:8080/mag00:1A:79:A7:3D:AD/vG0fMC8O4t/8810
-#EXTINF:0 tvg-name="BEIN FOX MOVIES" tvg-logo="http://wagmaupload.com/images/live150_559.png" group-title="BEIN MEDIA",BEIN FOX MOVIES
-http://wagmaott.com:8080/mag00:1A:79:A7:3D:AD/vG0fMC8O4t/8811
-#EXTINF:0 tvg-name="BEIN FOX MOVIES ACTION 4K" tvg-logo="http://wagmaupload.com/images/live150_560.png" group-title="BEIN MEDIA",BEIN FOX MOVIES ACTION 4K
-http://wagmaott.com:8080/mag00:1A:79:A7:3D:AD/vG0fMC8O4t/8812
-#EXTINF:0 tvg-name="BEIN FOX MOVIES ACTION HD" tvg-logo="http://wagmaupload.com/images/live150_560.png" group-title="BEIN MEDIA",BEIN FOX MOVIES ACTION HD
-http://wagmaott.com:8080/mag00:1A:79:A7:3D:AD/vG0fMC8O4t/8813
-#EXTINF:0 tvg-name="BEIN FOX MOVIES ACTION" tvg-logo="http://wagmaupload.com/images/live150_560.png" group-title="BEIN MEDIA",BEIN FOX MOVIES ACTION
-http://wagmaott.com:8080/mag00:1A:79:A7:3D:AD/vG0fMC8O4t/8814
-#EXTINF:0 tvg-name="BEIN FOX CRIME 4K" tvg-logo="http://wagmaupload.com/images/live150_561.png" group-title="BEIN MEDIA",BEIN FOX CRIME 4K
-http://wagmaott.com:8080/mag00:1A:79:A7:3D:AD/vG0fMC8O4t/8815
-#EXTINF:0 tvg-name="BEIN FOX CRIME HD" tvg-logo="http://wagmaupload.com/images/live150_561.png" group-title="BEIN MEDIA",BEIN FOX CRIME HD
-http://wagmaott.com:8080/mag00:1A:79:A7:3D:AD/vG0fMC8O4t/8816
-#EXTINF:0 tvg-name="BEIN FOX CRIME" tvg-logo="http://wagmaupload.com/images/live150_561.png" group-title="BEIN MEDIA",BEIN FOX CRIME
-http://wagmaott.com:8080/mag00:1A:79:A7:3D:AD/vG0fMC8O4t/8817
-#EXTINF:0 tvg-name="BEIN FOX LIFE 4K" tvg-logo="http://wagmaupload.com/images/live150_562.png" group-title="BEIN MEDIA",BEIN FOX LIFE 4K
-http://wagmaott.com:8080/mag00:1A:79:A7:3D:AD/vG0fMC8O4t/8818
-#EXTINF:0 tvg-name="BEIN FOX LIFE HD" tvg-logo="http://wagmaupload.com/images/live150_562.png" group-title="BEIN MEDIA",BEIN FOX LIFE HD
-http://wagmaott.com:8080/mag00:1A:79:A7:3D:AD/vG0fMC8O4t/8819
-#EXTINF:0 tvg-name="BEIN FOX LIFE" tvg-logo="http://wagmaupload.com/images/live150_562.png" group-title="BEIN MEDIA",BEIN FOX LIFE
-http://wagmaott.com:8080/mag00:1A:79:A7:3D:AD/vG0fMC8O4t/8820
-#EXTINF:0 tvg-name="BEIN FOX" tvg-logo="http://wagmaupload.com/images/live150_564.png" group-title="BEIN MEDIA",BEIN FOX
-http://wagmaott.com:8080/mag00:1A:79:A7:3D:AD/vG0fMC8O4t/8821
-#EXTINF:0 tvg-name="BEIN FOX FAMILY MOVIES" tvg-logo="http://wagmaupload.com/images/live150_565.png" group-title="BEIN MEDIA",BEIN FOX FAMILY MOVIES
-http://wagmaott.com:8080/mag00:1A:79:A7:3D:AD/vG0fMC8O4t/8822
-#EXTINF:0 tvg-name="BEIN FX" tvg-logo="http://wagmaupload.com/images/live150_566.png" group-title="BEIN MEDIA",BEIN FX
-http://wagmaott.com:8080/mag00:1A:79:A7:3D:AD/vG0fMC8O4t/8823
+
 #EXTINF:-1 tvg-name="Bein Premium 1 HD" tvg-logo="",Bein Prem 1 HD
 http://viewplayer.ip1v.com:25461/maan/test/22
 #EXTINF:-1 tvg-name="bein sports pr 2 HD" tvg-logo="",bein spor pr 2 HD
