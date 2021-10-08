@@ -1,5 +1,16 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="Football",Футбол 1 UA
+https://46-166-139-70.livesports24.online/uafootballua1.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="Football",Футбол 1 UA2
+https://185-198-56-58.livesports24.online/uafootballua1.m3u8    
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="Football",Футбол 2 UA
+https://46-166-139-70.livesports24.online/fooootball2.m3u8      
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="Football",Футбол 2 UA2
+https://185-107-80-245.livesports24.online/fooootball2.m3u8
+
+
 #EXTINF:-1 tvg-id="MusicChoiceHitList.us" tvg-name="Music Choice | Hit List Music Videos" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Hit List Music Videos
 http://gooserace.xyz:80/roman/roman123/2148437.ts
 #EXTINF:-1 tvg-id="MusicChoice-Indie.us" tvg-name="Music Choice | Indie Audio Channel" tvg-logo="https://yt3.ggpht.com/a/AATXAJxeVUkBkIeZFUxfc4ZtNl5GL95mQPEe4eMA8GebPA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA MUSIC",Music Choice | Indie Audio Channel
@@ -1524,19 +1535,15 @@ http://31.220.41.88:8081/live/bein12.stream/chunks.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEINSPORT 1", BEIN SPORTS 1 HD
-http://gog.daroudaraw.xyz/live/616194987/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEINSPORT 1", BEIN SPORTS 2 HD
-http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEINSPORT 1", BEIN SPORTS 3 HD
-http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
+http://viewplayer.ip1v.com:25461/maan/test/22
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEINSPORT 1", BEIN SPORTS 4 HD
-http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
+http://viewplayer.ip1v.com:25461/maan/test/23
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEINSPORT 1", BEIN SPORTS 5 HD
-http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
+http://viewplayer.ip1v.com:25461/maan/test/24
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEINSPORT 1", BEIN SPORTS 6 HD
-http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
+http://viewplayer.ip1v.com:25461/maan/test/25
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEINSPORT 1", BEIN SPORTS 7 HD
-http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
+http://viewplayer.ip1v.com:25461/maan/test/27
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEINSPORT 1", Bein sport 1 
 http://sos.moukrasa.xyz/live/69854211/index.m3u8
