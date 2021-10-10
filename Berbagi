@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",CH 1
+https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch01/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",CH 2
+https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch02/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",CH 3
+https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch03/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",CH 4
+https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch04/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",CH 5
+https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch05/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",CH 6
+https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch06/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",CH 7
+https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch07/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",CH 8
+https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch08/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",CH 9
+https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch09/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",CH 10
+https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch10/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",CH 11
+https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch11/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",CH 12
+https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch12/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",TEN1
+http://173.199.120.51/hls/chst1.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",TEN2
+http://173.199.120.51/hls/chst2.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",TEN3
+http://173.199.120.51/hls/chst3.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",StarSports select 1
+http://93.152.174.144:4000/play/ss1in/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",StarSports select 2
+http://93.152.174.144:4000/play/ss2in/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",StarSports select 3
+http://93.152.174.144:4000/play/ss3in/index.m3u8
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="AU: Fox Sports 501 FHD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6550.1489223922.png" group-title="Australia",AU: Fox Sports 501 FHD
