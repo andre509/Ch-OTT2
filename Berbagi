@@ -15,7 +15,18 @@ https://www.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
 https://www.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="CUP"tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl5.png",PremierHD5
 https://www.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
-
+#EXTINF:-1 group-title="sport"tvg-logo="XXXXX",football 1
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 group-title="sport"tvg-logo="XXXXX",football 2
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 group-title="sport"tvg-logo="XXXXX",football 3
+https://95-213-224-179.livesports24.online/football3ua.m3u8
+#EXTINF:-1 group-title="sport"tvg-logo="XXXXX",Sky Thoroughbred Central
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+#EXTINF:-1 group-title="sport"tvg-logo="XXXXX",Sky Thoroughbred Central
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+#EXTINF:-1 group-title="sport"tvg-logo="XXXXX",Sky Racing 2
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",CH 1
 https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch01/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",CH 2
