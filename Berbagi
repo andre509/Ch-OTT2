@@ -1164,8 +1164,7 @@ http://rr1.dens.tv/h/h16/index.m3u8
 http://rr1.dens.tv/h/h15/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE TES",SONY PIX Token
-
-http://jo123.biz/jweb/m3u8.php?c=Sony_Pix_HD&q=800&e=junk.m3u8
+http://qqtv.nl:8080/3298/3298/7258
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE TES",STAR MOVIES HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE TES",STAR WORLD
