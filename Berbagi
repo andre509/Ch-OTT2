@@ -1012,11 +1012,11 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW",ATV
-http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/chunklist_w1201165770.m3u8
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/46446.ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW",Indonesia Channel
 https://cdn4.mbahnunungonline.net/m3u8/1b4d1e3292b3936.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW",Indo Ch
-https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/46450.ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW",FLIX
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW",& Flix HD
@@ -1040,7 +1040,7 @@ https://www.dropbox.com/s/dl/i77lg3livx7qhzj/carawaktv-hbosig.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="PREMIUM KW",RED by HBO
 https://www.dropbox.com/s/dl/ds2ux7bmbz5k7f3/carawaktv_redbyhbo.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="PREMIUM KW",Foxlife
-http://198.16.106.62:8278/streams/d/Foxlife/playlist.m3u8
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/46443.ts
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW",HBO Id
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -1068,6 +1068,7 @@ http://rr1.dens.tv/h/h16/index.m3u8
 http://rr1.dens.tv/h/h15/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE TES",SONY PIX Token
+
 http://jo123.biz/jweb/m3u8.php?c=Sony_Pix_HD&q=800&e=junk.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE TES",STAR MOVIES HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
