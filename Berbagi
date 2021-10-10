@@ -1,4 +1,21 @@
 #EXTM3U
+
+
+#EXTINF:-1 group-title="CUP"tvg-logo="https://www.img02.xyz/assets/img/ch_logo/epl-bein1.png",BEIN SPORT 1
+https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="CUP"tvg-logo="https://www.img02.xyz/assets/img/ch_logo/epl-bein2.png",BEIN SPORT 2
+https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="CUP"tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl1.png",PremierHD1
+https://www.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="CUP"tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl2.png",PremierHD2
+https://www.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="CUP"tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl3.png",PremierHD3
+https://www.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="CUP"tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl4.png",PremierHD4
+https://www.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="CUP"tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl5.png",PremierHD5
+https://www.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",CH 1
 https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch01/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",CH 2
